@@ -70,7 +70,6 @@ function assessment(userName){
 
     return result;
 }
-//
 // テストコード
 console.assert(
     assessment('太郎') ===
